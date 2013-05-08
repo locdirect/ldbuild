@@ -1,7 +1,7 @@
 ldbuild
 =======
-
-Windows command line command to trigger LocDirect build and automatically download the build data files. For more information
+[LocDirect](http://localizedirect.com) is a cloud service to help manage your in-app strings for localization. 
+Ldbuild is a Windows command line command to trigger LocDirect build and automatically download the build data files. For more information
 on how to setup a build in LocDirect see [docs](http://docs.localizedirect.com/display/docs/Getting+build+data+into+the+game)
 
 
