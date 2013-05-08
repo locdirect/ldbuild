@@ -2,7 +2,7 @@ ldbuild
 =======
 
 Windows command line command to trigger LocDirect build and automatically download the build data files. For more information
-on how to setup a build in LocDirect see [docs](http://docs.localizedirect.com/display/docs/Command+line+build)
+on how to setup a build in LocDirect see [docs](http://docs.localizedirect.com/display/docs/Getting+build+data+into+the+game)
 
 
 When you execute the ldbuild.exe you need to provide the following information:
