@@ -17,4 +17,7 @@ This is the name you gave the build when you defined it. You can find it in the 
 Create an API key with minimum access right of "Read, Edit, Add" in the document's API tab.
 
 -p <download_path>
-Folder path on your local machine.
+(optional) Folder path on your local machine.
+
+-s <server_url>
+(optional) Specify alternative LocDirect server
